@@ -5,7 +5,7 @@ Sample data as well Python code for the article: V. Di Trapani, L. Brombal, and 
 
 ## Input
 
-Code is designed to consider as input a number (e.g. 8) of CT images with different energy settings:
+Code is designed to consider as input a number (e.g. 8) of X-ray CT (Computed Tomography) images at different energies:
 
 ![](/doc/Figure1.jpg)
 
