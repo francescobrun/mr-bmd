@@ -1,5 +1,5 @@
 # MR-BMD (Minimum-Residual Basis Material Decomposition)
-Sample data as well as MATLAB and Python code for the article V. Di Trapani, L. Brombal, and F. Brun, [Multi-material spectral photon-counting micro-CT with minimum residual decomposition and self-supervised deep denoising](https://doi.org/10.1364/OE.471439), *Optics Express*, 2022.
+Sample data as well as MATLAB and Python code for the article: V. Di Trapani, L. Brombal, and F. Brun, [Multi-material spectral photon-counting micro-CT with minimum residual decomposition and self-supervised deep denoising](https://doi.org/10.1364/OE.471439), *Optics Express*, 2022.
 
 **Note**: MATLAB and Python code give slightly different (numerical) results.
 
