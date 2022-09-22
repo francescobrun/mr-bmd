@@ -1,4 +1,4 @@
-# MR-BMD
+# MR-BMD (Minimum-Residual Basis Material Decomposition)
 Sample data and code for the article V. Di Trapani, L. Brombal, and F. Brun, [Multi-material spectral photon-counting micro-CT with minimum residual decomposition and self-supervised deep denoising](https://doi.org/10.1364/OE.471439), Optics Express, 2022.
 
 ## Input
