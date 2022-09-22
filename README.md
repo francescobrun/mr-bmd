@@ -5,11 +5,11 @@ Sample data as well as MATLAB and Python code for the article: V. Di Trapani, L.
 
 ## Input
 
-Code is designed to consider as input a number (e.g. 8) of images having different energetic content:
+Code is designed to consider as input a number (e.g. 8) of CT images with different energy settings:
 
 ![](/doc/Figure1.jpg)
 
-and a decomposition matrix resulting from the physics of the acquisition system and the desired materials:
+and a decomposition matrix resulting from the physics of the acquisition system and the desired materials (e.g. 4):
 
 ![](/doc/Figure2.jpg)
 
