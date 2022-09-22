@@ -7,7 +7,7 @@ Code is designed to consider as input a number (e.g. 8) of images having differe
 
 ![](/doc/Figure1.jpg)
 
-and a decomposition matrix resulting from the physics of input spectrum, detector energy response and material X-ray absorption:
+and a decomposition matrix resulting from the physics of the acquisition system and the desired materials:
 
 ![](/doc/Figure2.jpg)
 
