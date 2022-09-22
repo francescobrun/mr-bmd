@@ -5,11 +5,11 @@ Sample data as well Python code for the article: V. Di Trapani, L. Brombal, and 
 
 ## Input
 
-Code is designed to consider as input a number (e.g. 8) of X-ray CT (Computed Tomography) images at different energies:
+Code requires as input a number (e.g. 8) of X-ray CT (Computed Tomography) images at different energies:
 
 ![](/doc/Figure1.jpg)
 
-and a decomposition matrix resulting from the physics of the acquisition system and the desired materials (e.g. 4):
+and a decomposition matrix resulting from the physics of the CT settings and the desired materials (e.g. 4):
 
 ![](/doc/Figure2.jpg)
 
