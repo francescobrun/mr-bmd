@@ -7,7 +7,7 @@ Data and code will be available as soon as the article is published.
 
 Code is designed to consider as input a number (e.g. 8) of images having different energetic content:
 
-
+![](/doc/Figure1.jpg)
 
 and a decomposition matrix resulting from the physics of input spectrum, detector energy response and material X-ray absorption:
 
