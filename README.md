@@ -21,4 +21,4 @@ Known the pixel size, the code outputs the concentration map of each material in
 
 ![](/doc/Figure3.jpg)
 
-**Note**: in this output example five materials were considered, i.e. soft tissue (water), bone, I, Ba, and Gd. 
+**Note**: in this example five materials were considered, i.e. soft tissue (water), bone, I, Ba, and Gd. 
