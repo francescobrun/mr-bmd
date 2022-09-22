@@ -17,7 +17,7 @@ and a decomposition matrix resulting from the physics of the acquisition system 
 
 ## Output
 
-Known the pixel size, the code outputs the concentration maps of each material in mg/ml, such as e.g.:
+Known the pixel size, the code outputs the concentration map of each material in mg/ml, such as e.g.:
 
 ![](/doc/Figure3.jpg)
 
