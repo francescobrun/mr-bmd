@@ -24,4 +24,4 @@ Known the pixel size, the code outputs the concentration map of each material in
 **Note**: in this example five materials were considered, i.e. soft tissue (water), bone, I, Ba, and Gd. 
 
 ## License
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE.txt) file for details.
